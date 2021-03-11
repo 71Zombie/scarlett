@@ -74,7 +74,7 @@ const char     MINER_CONFIG_FILE_NAME[]                      = "miner_conf.json"
 
 //TODO Put here the name of your currency
 const char     CRYPTONOTE_NAME[]                             = "scarlett";
-const char     GENESIS_COINBASE_TX_HEX[]                     = "013c01ff0001f0c382deeb17029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd0880712101d579e54b7c36afddfe4806d33d88051aaf711ed4b86da0b82f64a334c17a4f28";
+const char     GENESIS_COINBASE_TX_HEX[]                     = "013c01ff0001f0c382deeb17029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd08807121016694109a12ead18721d424249497abb4d5cda55c3ae9209f66438862d2b6c237";
 const uint8_t  CURRENT_TRANSACTION_VERSION                   =  1;
 const uint8_t  BLOCK_MAJOR_VERSION_1                         =  1;
 const uint8_t  BLOCK_MINOR_VERSION_0                         =  0;
