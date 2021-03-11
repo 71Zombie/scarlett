@@ -1,3 +1,6 @@
+[![Requirements Status](https://requires.io/github/71Zombie/scarlett/requirements.svg?branch=master)](https://requires.io/github/71Zombie/scarlett/requirements/?branch=master)
+
+
 **How to build**
 
 Note: Currently at this time ONLY Ubuntu 14.04 is supported!
