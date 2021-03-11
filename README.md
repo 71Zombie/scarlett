@@ -10,7 +10,8 @@ You may download them from:
 * http://www.cmake.org/
 * http://www.boost.org/
 * Alternatively, it may be possible to install them using a package manager.
-` sudo apt-get install build-essential git cmake libboost1.55-all-dev '
+
+` sudo apt-get install build-essential git cmake libboost1.55-all-dev'
 
 
 To build, change to a directory where this file is located, and run `make`. The resulting executables can be found in `build/release/src`.
